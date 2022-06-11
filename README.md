@@ -1,2 +1,2 @@
 # test-repo
-First test repo created to explore the features
+First repo created to explore the features and applying in real time.
